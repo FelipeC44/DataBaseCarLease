@@ -5,8 +5,12 @@ Os requisitos que o sistema deveria atender foram levantados para que pudesse de
 Em SQL foi elaborado alguns comandos para a locação dos veículos específicos:
 -- Criar a tabela Marca com a chave primaria, declarando de várias maneiras diferentes
 
+
+
 Diagrama do banco de dados
 ![image](https://user-images.githubusercontent.com/87394511/173206500-0cca06cb-6915-400d-b88f-4ad748f5d1d0.png)
+
+
 
 Diagrama lógico
 ![image](https://user-images.githubusercontent.com/87394511/173206508-15029d53-c6ee-4367-9aa7-706ce22bcf39.png)
